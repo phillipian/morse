@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/Ada"]
+	path = wp-content/themes/Ada
+	url = https://github.com/phillipian/Ada.git
